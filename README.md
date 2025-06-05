@@ -286,20 +286,3 @@ Feito com 💙 por [Gabriel](https://github.com/bielsilva713)
 
 ## 🏆 **O script ideal para administradores que buscam segurança, praticidade e automação no backup e migração de servidores!**
 
----
-
-## ✅ **Pronto para que eu gere também:**
-
-* 🖥️ Interface gráfica (painel web)?
-* 📦 Instalador `.deb` para facilitar distribuição?
-* 📃 Arquivo `LICENSE` pronto?
-
-Só dizer:
-
-✅ “Quero painel web”
-✅ “Quero `.deb`”
-✅ “Quero os dois”
-
-**Como quer seguir?**
-**Quer que eu gere e envie o script `backup-plus.sh` já pronto como arquivo?**
-Se sim, diga: “Envia o arquivo!”
