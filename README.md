@@ -163,7 +163,7 @@ rclone config
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/backup-plus-aapanel-docker.git
+git clone https://github.com/bielsilva713/backup-plus-aapanel-docker.git
 cd backup-plus-aapanel-docker
 ```
 
